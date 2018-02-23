@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1519386151 source:c:\documents and settings\skola\desktop\sti2018\interval\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<unordered_map>
+	<array>
+

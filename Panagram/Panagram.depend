@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1519391166 source:c:\documents and settings\skola\desktop\sti2018\panagram\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
+1519399992 source:c:\users\kuca\desktop\sti2018\panagram\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
